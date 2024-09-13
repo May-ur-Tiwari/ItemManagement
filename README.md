@@ -14,7 +14,7 @@ This project is a simple console-based application written in C++ that manages a
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/item-management-system.git
+   git clone https://github.com/May-ur-Tiwari/itemManagement.git
 
 2. **Compiling the Program**
     g++ -o item_management main.cpp items.cpp
