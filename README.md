@@ -21,3 +21,4 @@ This project is a simple console-based application written in C++ that manages a
 
 3. **Running the Program**
     ./item_management
+
